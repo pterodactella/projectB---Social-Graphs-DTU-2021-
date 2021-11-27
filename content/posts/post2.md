@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project A"
+title: ""
 date: 2021-11-24T18:26:38+01:00
-description: "A little backgroud on what was already discovered during part A"
+description: ""
 featured_image: "/images/group.jpg"
 draft: false
 ---
