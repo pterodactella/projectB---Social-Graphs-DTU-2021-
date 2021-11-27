@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Office</title>
+    <link>https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/</link>
+    <description>Recent content on The Office</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 18:26:38 +0100</lastBuildDate><atom:link href="https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/posts/post2/</link>
+      <pubDate>Wed, 24 Nov 2021 18:26:38 +0100</pubDate>
+      
+      <guid>https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/posts/post2/</guid>
+      <description>During the preliminary analysis performed during the first part of the project, the following was descovered:
+ The total number of unique characters was found to be 298 (the dataset does not contain any duplicates) The total number of nodes is 255 with 17 isolated nodes The total number of links was found to be equal with 1196 The top connected character for the in-degrees is Michael Scott with a degree of 108 The top connected character for the out-degrees is Andy Bernard with a degree of 33 The memory usage for all the data is equal to 6.</description>
+    </item>
+    
+    <item>
+      <title>Project A</title>
+      <link>https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/posts/post1/</link>
+      <pubDate>Wed, 24 Nov 2021 18:26:38 +0100</pubDate>
+      
+      <guid>https://pterodactella.github.io/projectB---Social-Graphs-DTU-2021-/posts/post1/</guid>
+      <description>This blog post focuses on providing the full analysis performed during the first part of the project.
+Gathering the Data To explore The Office, several datasets were used:
+ First, all characters that played in the office from the first season to the final one were extracted using The Offica Wiki (Dunderpedia) A description of each character is downloaded from Dunderpedia. The data is used to extract the sentiment of each character and will be later compared to the sentiment extracted from the episodes transcript.</description>
+    </item>
+    
+  </channel>
+</rss>
